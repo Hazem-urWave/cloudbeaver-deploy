@@ -1,6 +1,6 @@
 # CloudBeaver Enterprise deployment
 
-<big><b>Version 25.2</b></big>
+### Version 25.3
 
 CloudBeaver Enterprise is a client-server application.
 It requires server deployment. You can deploy it in several ways:
@@ -155,6 +155,8 @@ Previously, the volumes were owned by the ‘root’ user, but now they’re own
 
 ## Older versions
 
+### Older versions:
+- [25.2.0](https://github.com/dbeaver/cloudbeaver-deploy/tree/25.2.0)
 - [25.1.0](https://github.com/dbeaver/cloudbeaver-deploy/tree/25.1.0)
 - [25.0.0](https://github.com/dbeaver/cloudbeaver-deploy/tree/25.0.0)
 - [24.3.0](https://github.com/dbeaver/cloudbeaver-deploy/tree/24.3.0)
