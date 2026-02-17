@@ -16,7 +16,7 @@ services:
     restart: unless-stopped
     image: ${IMAGE_SOURCE:-dbeaver}/cloudbeaver-${PROXY_TYPE:-nginx}:${CLOUDBEAVER_VERSION_TAG}
     ports:
-      - 80:8080
+      - 81:8080
       - 443:8443
     environment:
       - COMPOSE_PROJECT_NAME=${COMPOSE_PROJECT_NAME:-dbeaver}
